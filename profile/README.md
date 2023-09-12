@@ -6,8 +6,6 @@ Esse projeto é um anticheat gratuito para o jogo Multi Theft Auto (MTA), que te
 
 Este projeto é mantido por uma equipe de desenvolvedores apaixonados por jogos e programação:
 
-- Vieira (Dono da [LockCode](https://lockcode.com.br))
-- Victor (Dono da [LockCode](https://lockcode.com.br))
 - Neto (Dono da [HyperScripts](https://hyperscripts.com.br/))
 - Gusta (Dono da Black [BlackScripting](https://blackscripting.com.br/))
 
